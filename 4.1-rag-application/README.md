@@ -206,12 +206,3 @@ This project demonstrates the core Retrieval-Augmented Generation workflow: docu
 
 It provides a foundation for building more advanced AI applications involving workflow orchestration, observability, and AI agents.
 
-## 12. Internship Deliverable
-
-**Program:** Skillset Go EduTech — AI/ML Internship
-
-**Week:** 4 — Applied AI Phase
-
-**Task:** 4.1 — RAG Application
-
-**Deliverable:** Working RAG prototype and architecture documentation.
